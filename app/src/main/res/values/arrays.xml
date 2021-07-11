@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="add_lotto">
+        <item>@string/add_qr_code</item>
+        <item>@string/add_typing</item>
+    </string-array>
+
+    <string-array name="setting_lotto">
+        <item>@string/update</item>
+        <item>@string/remove</item>
+    </string-array>
+
+</resources>

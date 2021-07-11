@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fontColor">#000000</color>
+    <color name="grey">#E3E3E3</color>
+    <color name="cardBackground">#EEEEEE</color>
+    <color name="lottoBackground">#FEFEFE</color>
+    <color name="drawerColor">#FFFFFF</color>
+
+    <color name="headerColor">#EEEEEE</color>
+</resources>

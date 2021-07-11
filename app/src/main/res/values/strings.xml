@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">로또6/45</string>
+
+    <string name="add">추가</string>
+    <string name="add_qr_code">QR 코드로 추가하기</string>
+    <string name="add_typing">직접 입력하기</string>
+    <string name="remove">삭제</string>
+    <string name="update">수정</string>
+
+    <string name="request_permission">권한을 허용하지 않으면 앱 사용이 불가능합니다\n[설정] > [권한]에서 권한을 부여해주세요</string>
+    <string name="denied_permission">권한이 거부되었습니다</string>
+    <string name="save">저장</string>
+</resources>

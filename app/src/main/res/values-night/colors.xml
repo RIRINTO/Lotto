@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fontColor">#FFFFFF</color>
+    <color name="grey">#E3E3E3</color>
+    <color name="lottoBackground">#333333</color>
+    <color name="drawerColor">#121212</color>
+
+    <color name="headerColor">#222222</color>
+</resources>

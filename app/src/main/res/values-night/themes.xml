@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Lotto" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorPrimaryVariant">@android:color/black</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="colorSecondary">@android:color/black</item>
+        <item name="colorSecondaryVariant">@android:color/black</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        <item name="colorControlNormal">@color/cardBackground</item>
+        <item name="colorControlActivated">@color/cardBackground</item>
+
+        <item name="android:textColorSecondary">@color/cardBackground</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:textColor">@color/cardBackground</item>
+        <item name="cardBackgroundColor">@android:color/black</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="Theme.MaterialComponents.DayNight.Dialog.Alert">
+        <item name="android:textColor">@color/grey</item>
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorAccent">@color/grey</item>
+    </style>
+</resources>
